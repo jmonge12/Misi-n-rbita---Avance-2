@@ -1,5 +1,5 @@
 
-# Misión Órbita
+# Misión Órbita Avance 2
 
 ## Descripción
 Simulador básico de exploración espacial desarrollado en Python para el curso
